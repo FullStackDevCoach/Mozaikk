@@ -1,6 +1,3 @@
-![MOZAIKK][logo]
-
-
 
 Mozaikk is a tool based on nodejs / react / redux / d3 to easily craft beautiful dashboards. [See demo](http://mozaik.herokuapp.com/)
 
