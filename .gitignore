@@ -1,0 +1,18 @@
+logs
+*.log*
+node_modules
+.idea
+.DS_Store
+.nyc_output
+coverage
+.env
+*.lerna_backup
+
+# ignore extensions, this directory is just here
+# to ease extension authoring using lerna abilities
+/extensions
+
+/demo/build
+
+website/.cache
+website/public
